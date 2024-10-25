@@ -1,0 +1,25 @@
+{
+  "name": "playwright-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clearAllure": "rimraf allure-results && rimraf allure-report",
+    "updateBrowser": "npx playwright install",
+    "testChrome": "npm run clearAllure && npx playwright test --project=chrome",
+    "testFirefox": "npm run clearAllure && npx playwright test --project=firefox",
+    "testSafari": "npm run clearAllure && npx playwright test --project=webkit",
+    "allureReport": "allure serve",
+    "allureGenerate": "npx allure generate ./allure-results --clean && npx allure open ./allure-report"
+  },
+  "keywords": [],
+  "author": "Auntor Acharja",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.0",
+    "allure-playwright": "^3.0.0-beta.10",
+    "dotenv": "^16.4.5",
+    "rimraf": "^6.0.1"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "cookies": [
+    {
+      "name": "LOCALEDEBUG",
+      "value": "false",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1759224331.383066,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "USERLOCALE",
+      "value": "en%5FUS",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1759224331.383356,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CSRF-TOKEN",
+      "value": "5956FD8DFB8AB0FACA140DB77F248249A2C6988C1CFD05E805A5E4CE4712A31FF3963E54F9936022445A2F563854456A",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1759224328.044545,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "UTCOFFSET",
+      "value": "-360",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "USERSTORE",
+      "value": "23384956%2D638d%2D11ef%2Dbcda%2D06a492f4ff05",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1759224331.007738,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "REMEMBERME",
+      "value": "\"\"",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1728552331.007794,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CLIENTVIEWTYPE",
+      "value": "desktop",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1759224331.3823,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "USERTOKEN",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9%2EeyJkYXRhIjp7IklzQ3VzdG9tZXJTZXJ2aWNlTG9naW4iOmZhbHNlLCJDdXN0b21lclNlcnZpY2VVc2VybmFtZSI6IiIsIlNlc3Npb25Ub2tlbiI6IkY3TktNSlQzOUdOSzBMNDFHN00zT09ITUVQRDdGT0VIIn0sImlzcyI6InNlY3VyZS50aW1lc2hlZXRzLmhlbHAiLCJpZCI6NTA4ODcsImV4cCI6MTcyNDY2NTUzMX0%2Eu3BwyoERKAENtrkPl6akrMO%2DHoj2N8TLsgmO62I9mkuQPxELIloOx4U%5F3ERBj5sScTWxgNcIs1k5vC6Rj8i19g",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1759224331.382488,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APITOKEN",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9%2EeyJkYXRhIjp7IklzQ3VzdG9tZXJTZXJ2aWNlTG9naW4iOmZhbHNlLCJDdXN0b21lclNlcnZpY2VVc2VybmFtZSI6IiIsIlNlc3Npb25Ub2tlbiI6IkY3TktNSlQzOUdOSzBMNDFHN00zT09ITUVQRDdGT0VIIn0sImlzcyI6InNlY3VyZS50aW1lc2hlZXRzLmhlbHAiLCJpZCI6NTA4ODcsImV4cCI6MTcyNDY2NTUzMX0%2Eu3BwyoERKAENtrkPl6akrMO%2DHoj2N8TLsgmO62I9mkuQPxELIloOx4U%5F3ERBj5sScTWxgNcIs1k5vC6Rj8i19g",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1724664631.382664,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APIKEY",
+      "value": "FFFAC451%2D90B6%2D873D%2D331501D7880631CE",
+      "domain": "secure.timesheets.help",
+      "path": "/",
+      "expires": 1724664631.382992,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://secure.timesheets.help",
+      "localStorage": [
+        {
+          "name": "bugsnag-anonymous-id",
+          "value": "cm0asm1ge00003lcvd7cuqtbd"
+        }
+      ]
+    }
+  ]
+}

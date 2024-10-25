@@ -1,0 +1,16 @@
+{
+    "UIData":{
+        "navItemActiveColorCode":"rgb(1, 101, 44)"
+    },
+    "tripData":{
+        "from":"Dhaka",
+        "to":"Chittagong",
+        "roundType":"One Way",
+        "date":"Wednesday, October 30,",
+        "busType":"AC",
+        "buses":["Green Line Paribahan","SHOHAGH PARIBAHAN"],
+        "dropTime":"Starts at 05:30 PM",
+        "dropLocation":"CMP DAMPARA",
+        "maximunSelectedSeat":4
+    }
+}
