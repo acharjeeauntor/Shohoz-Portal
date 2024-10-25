@@ -82,8 +82,10 @@ The following software are required:
 
 ## Allure Report view
 
-
 <img width="1431" alt="Screenshot 2024-10-25 at 12 41 07 PM" src="https://github.com/user-attachments/assets/93771f18-5f71-4b5c-a776-6b7a59681af5">
 
 
 <img width="1431" alt="Screenshot 2024-10-25 at 12 49 03 PM" src="https://github.com/user-attachments/assets/b7b1962e-145a-4394-8650-08b0b498c251">
+
+## Video Of Test Run:
+https://drive.google.com/file/d/1C1471xJJtcIqrVrgy_DfxGp1DfhDTmUW/view?usp=sharing
