@@ -1,4 +1,4 @@
-# Sohoz website automaition using Playwright, JS, POM Pattern
+# Shohoz website automaition using Playwright, JS, POM Pattern
 
 ## We can automate the following using Playwright: 
 
@@ -39,7 +39,7 @@ The following software are required:
 
 ### Installation:
 
-1. Clone the repo: https://github.com/acharjeeauntor/Sohoz-Portal.git
+1. Clone the repo: https://github.com/acharjeeauntor/Shohoz-Portal.git
 2. Navigate to folder and install npm packages using:
    npm install
 3. Collect the .env file from the Project Author and place in the root directory of the project
